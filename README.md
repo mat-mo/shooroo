@@ -4,7 +4,7 @@ A magnet link archive
 ---
 
 This repo holds magnet links to torrents I found on the web. 
-I am saving them in this repo so they won't get lost in many many links on the internet.
+I am saving them in this repo so they won't get lost like so many links on the internet.
 
 ## Contribute
 

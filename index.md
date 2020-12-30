@@ -7,5 +7,6 @@
 [![Honest_thief](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Honest_Thief_poster.jpg)](https://mat-mo.github.io/shooroo/video/honest_thief.html)
 [![Tenet](//raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Tenet_movie_poster.jpg)](https://mat-mo.github.io/shooroo/video/tenet.html)
 [![Sintel](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Sintel_poster.jpg)](https://mat-mo.github.io/shooroo/video/sintel.html)
+[![Harry Potter and the Sorcerers Stone](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Harry_Potter_and_the_Philosopher's_Stone_banner.jpg)](https://mat-mo.github.io/shooroo/video/harry_potter_I.html)
 [![Mary Poppins](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Marypoppins.jpg)](https://mat-mo.github.io/shooroo/video/mary_poppins.html)
 

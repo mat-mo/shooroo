@@ -12,4 +12,4 @@
 
 ### Audio works as well!
 
-[![Sound of Silence](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/SoundsSilence.jpg)(https://mat-mo.github.io/shooroo/audio/sound_of_silence.html)
+[![Sound of Silence](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/SoundsSilence.jpg)](https://mat-mo.github.io/shooroo/audio/sound_of_silence.html)

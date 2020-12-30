@@ -13,3 +13,4 @@
 ### Audio works as well!
 
 [![Sound of Silence](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/SoundsSilence.jpg)](https://mat-mo.github.io/shooroo/audio/sound_of_silence.html)
+[![Walt Disney Song Collection](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Disney_songs.jpg)](https://mat-mo.github.io/shooroo/audio/walt_disney_songs.html)

@@ -1,5 +1,5 @@
 ## Welcome! Click on a poster to start watching 
-### It might take a few seconds to load, be patient :)
+### It might take a few minutes for the player to load, be patient :)
 [![Soul](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Soul_Poster.jpg)](https://mat-mo.github.io/shooroo/video/soul.html)
 [![Wonder woman 1984](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Wonder_Woman_1984.png)](https://mat-mo.github.io/shooroo/video/wonder_woman_1984.html)
 [![Greenland](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Greenland_film.png)](https://mat-mo.github.io/shooroo/video/greenland.html)

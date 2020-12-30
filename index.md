@@ -9,4 +9,7 @@
 [![Sintel](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Sintel_poster.jpg)](https://mat-mo.github.io/shooroo/video/sintel.html)
 [![Harry Potter and the Sorcerers Stone](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Harry_Potter_and_the_Philosopher's_Stone_banner.jpg)](https://mat-mo.github.io/shooroo/video/harry_potter_I.html)
 [![Mary Poppins](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/assets/Marypoppins.jpg)](https://mat-mo.github.io/shooroo/video/mary_poppins.html)
-[Sound of Silence](https://mat-mo.github.io/shooroo/audio/sound_of_silence.html)
+
+### Audio works as well!
+
+[![Sound of Silence](https://raw.githubusercontent.com/mat-mo/shooroo/gh-pages/SoundsSilence.jpg)(https://mat-mo.github.io/shooroo/audio/sound_of_silence.html)
